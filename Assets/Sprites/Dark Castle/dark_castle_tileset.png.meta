@@ -1,0 +1,1073 @@
+fileFormatVersion: 2
+guid: 18ebddb068798804ab61cdc3e822c963
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: dark_castle_tileset_0
+  - first:
+      213: 21300002
+    second: dark_castle_tileset_1
+  - first:
+      213: 21300004
+    second: dark_castle_tileset_2
+  - first:
+      213: 21300006
+    second: dark_castle_tileset_3
+  - first:
+      213: 21300008
+    second: dark_castle_tileset_4
+  - first:
+      213: 21300010
+    second: dark_castle_tileset_5
+  - first:
+      213: 21300012
+    second: dark_castle_tileset_6
+  - first:
+      213: 21300014
+    second: dark_castle_tileset_7
+  - first:
+      213: 21300016
+    second: dark_castle_tileset_8
+  - first:
+      213: 21300018
+    second: dark_castle_tileset_9
+  - first:
+      213: 21300020
+    second: dark_castle_tileset_10
+  - first:
+      213: 21300022
+    second: dark_castle_tileset_11
+  - first:
+      213: 21300024
+    second: dark_castle_tileset_12
+  - first:
+      213: 21300026
+    second: dark_castle_tileset_13
+  - first:
+      213: 21300028
+    second: dark_castle_tileset_14
+  - first:
+      213: 21300030
+    second: dark_castle_tileset_15
+  - first:
+      213: 21300032
+    second: dark_castle_tileset_16
+  - first:
+      213: 21300034
+    second: dark_castle_tileset_17
+  - first:
+      213: 21300036
+    second: dark_castle_tileset_18
+  - first:
+      213: 21300038
+    second: dark_castle_tileset_19
+  - first:
+      213: 21300040
+    second: dark_castle_tileset_20
+  - first:
+      213: 21300042
+    second: dark_castle_tileset_21
+  - first:
+      213: 21300044
+    second: dark_castle_tileset_22
+  - first:
+      213: 21300046
+    second: dark_castle_tileset_23
+  - first:
+      213: 21300048
+    second: dark_castle_tileset_24
+  - first:
+      213: 21300050
+    second: dark_castle_tileset_25
+  - first:
+      213: 21300052
+    second: dark_castle_tileset_26
+  - first:
+      213: 21300054
+    second: dark_castle_tileset_27
+  - first:
+      213: 21300056
+    second: dark_castle_tileset_28
+  - first:
+      213: 21300058
+    second: dark_castle_tileset_29
+  - first:
+      213: 21300060
+    second: dark_castle_tileset_30
+  - first:
+      213: 21300062
+    second: dark_castle_tileset_31
+  - first:
+      213: 21300064
+    second: dark_castle_tileset_32
+  - first:
+      213: 21300066
+    second: dark_castle_tileset_33
+  - first:
+      213: 21300068
+    second: dark_castle_tileset_34
+  - first:
+      213: 21300070
+    second: dark_castle_tileset_35
+  - first:
+      213: 21300072
+    second: dark_castle_tileset_36
+  - first:
+      213: 21300074
+    second: dark_castle_tileset_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dark_castle_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666139527c01e724b97da1ccd8dd5854
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1d624c1b3de848bd7890f7e558194
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d109415036d9ef4d8e13244c6e4e3ef
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9faafe2a5776d41b8f6b3bc1b72dfa
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d9d13dfff9d5d43a6f5aef8146529e
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1312301d8297414daa797ccf51670d4
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16050157fd2f2d4fa2f54496a4bf76e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c1bd5e7aba3d4db0cee69bd06bf93
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6879183789277a243b74d561e6d6dd58
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd932addf0438e438a4bcec716b0a5f
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e4852defec78e499a66595005006aa
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40e9cfcdb2b0a8489d26e766582e32b
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bd0cd6ebfcee444a9d9736325e906d
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35638d34b5d4a9041988c3405580a288
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eb35a18668afa43aa1e2ec68dd9a19
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9373acf2cfa76a849b6ae02d248df894
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7147bdb7de9d02546917a5588c80f90a
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b14c30e0b673947aba7380bdc5a25d
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 147
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b52ad3f2be8bf4189229ab12a112dd
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 149
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60370e604340ed42b0c78c7e152c0bb
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 146
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb83b258b1bf084f853301c3b2bfcc3
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 166
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298a0bf1a7d36e445a730e09a78c13fd
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1b80d09e05cf24bbf35cae1959ba4b
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f1336403b8d04cad3ea9a3f6cca13
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 115
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54feda1ec953bf488a5cb33c832c2ad
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 115
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ecb6db57ab3fd408a01cdf952d9075
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 115
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bc11bc1500a4747b4dde20995a1852
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 87
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91039f4fca479e4a8d436bdebd9cd30
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 87
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456cc966f7175ed4eb81822b61befbb7
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 87
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e08be537c8a7f48b6b34e24bb9d45e
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 87
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc2fa2cfc1162b40bd524b6b8b9b20d
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 87
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6517b8e98279b5e4ba37c2906d6a0b06
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 87
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68b650daa8233e49b9c326076bfc648
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 50
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101e08fb6b3a7fb4fbc236444ee1b047
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 50
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c52fabfeaba9b48a1d3c417d292086
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 50
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b206b4bfec988614abd94957061e86ed
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03313114407440647b560f8f0ee8a009
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_castle_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 19
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665a0c290fa006941ba5615779d17cf6
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7a535cb2022086a4da13278bde5d05d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dark_castle_tileset_0: 21300000
+      dark_castle_tileset_1: 21300002
+      dark_castle_tileset_10: 21300020
+      dark_castle_tileset_11: 21300022
+      dark_castle_tileset_12: 21300024
+      dark_castle_tileset_13: 21300026
+      dark_castle_tileset_14: 21300028
+      dark_castle_tileset_15: 21300030
+      dark_castle_tileset_16: 21300032
+      dark_castle_tileset_17: 21300034
+      dark_castle_tileset_18: 21300036
+      dark_castle_tileset_19: 21300038
+      dark_castle_tileset_2: 21300004
+      dark_castle_tileset_20: 21300040
+      dark_castle_tileset_21: 21300042
+      dark_castle_tileset_22: 21300044
+      dark_castle_tileset_23: 21300046
+      dark_castle_tileset_24: 21300048
+      dark_castle_tileset_25: 21300050
+      dark_castle_tileset_26: 21300052
+      dark_castle_tileset_27: 21300054
+      dark_castle_tileset_28: 21300056
+      dark_castle_tileset_29: 21300058
+      dark_castle_tileset_3: 21300006
+      dark_castle_tileset_30: 21300060
+      dark_castle_tileset_31: 21300062
+      dark_castle_tileset_32: 21300064
+      dark_castle_tileset_33: 21300066
+      dark_castle_tileset_34: 21300068
+      dark_castle_tileset_35: 21300070
+      dark_castle_tileset_36: 21300072
+      dark_castle_tileset_37: 21300074
+      dark_castle_tileset_4: 21300008
+      dark_castle_tileset_5: 21300010
+      dark_castle_tileset_6: 21300012
+      dark_castle_tileset_7: 21300014
+      dark_castle_tileset_8: 21300016
+      dark_castle_tileset_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

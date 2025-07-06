@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: d87e462881b2e554ca72cb319181a1dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Consecutive Attack_0
+  - first:
+      213: 21300002
+    second: Consecutive Attack_1
+  - first:
+      213: 21300004
+    second: Consecutive Attack_2
+  - first:
+      213: 21300006
+    second: Consecutive Attack_3
+  - first:
+      213: 21300008
+    second: Consecutive Attack_4
+  - first:
+      213: 21300010
+    second: Consecutive Attack_5
+  - first:
+      213: 21300012
+    second: Consecutive Attack_6
+  - first:
+      213: 21300014
+    second: Consecutive Attack_7
+  - first:
+      213: 21300016
+    second: Consecutive Attack_8
+  - first:
+      213: 21300018
+    second: Consecutive Attack_9
+  - first:
+      213: 21300020
+    second: Consecutive Attack_10
+  - first:
+      213: 21300022
+    second: Consecutive Attack_11
+  - first:
+      213: 21300024
+    second: Consecutive Attack_12
+  - first:
+      213: 21300026
+    second: Consecutive Attack_13
+  - first:
+      213: 21300028
+    second: Consecutive Attack_14
+  - first:
+      213: 21300030
+    second: Consecutive Attack_15
+  - first:
+      213: 21300032
+    second: Consecutive Attack_16
+  - first:
+      213: 21300034
+    second: Consecutive Attack_17
+  - first:
+      213: 21300036
+    second: Consecutive Attack_18
+  - first:
+      213: 21300038
+    second: Consecutive Attack_19
+  - first:
+      213: 21300040
+    second: Consecutive Attack_20
+  - first:
+      213: 21300042
+    second: Consecutive Attack_21
+  - first:
+      213: 21300044
+    second: Consecutive Attack_22
+  - first:
+      213: 21300046
+    second: Consecutive Attack_23
+  - first:
+      213: 21300048
+    second: Consecutive Attack_24
+  - first:
+      213: 21300050
+    second: Consecutive Attack_25
+  - first:
+      213: 21300052
+    second: Consecutive Attack_26
+  - first:
+      213: 21300054
+    second: Consecutive Attack_27
+  - first:
+      213: 21300056
+    second: Consecutive Attack_28
+  - first:
+      213: 21300058
+    second: Consecutive Attack_29
+  - first:
+      213: 21300060
+    second: Consecutive Attack_30
+  - first:
+      213: 21300062
+    second: Consecutive Attack_31
+  - first:
+      213: 21300064
+    second: Consecutive Attack_32
+  - first:
+      213: 21300066
+    second: Consecutive Attack_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Consecutive Attack_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc365bd31c63aa84baa7255c98bd2929
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acefed4a0bfcbe4f8c0919d547fc9fe
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420d7500b6b65a74d9dc95ade5e1627b
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4df57b590ff7345b02fb4e9a89b1bc
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddfb207ee57f3c49a634051b848d7b9
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929b09670fa6cf545bf6bce397e86209
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2016f2ebc88b82a4da440f82d61a673e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de50405dccd0f1448a23d548668cb6e3
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791dd697b75b0824b9bf585253d17a19
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bcb9a37bc21bd4d94a6420698d5d13
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 3
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c1487d056c9f84bb4b5a547f115629
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1634dc93f3724a84394be2524aab38fc
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_12
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 3
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f6e733aeed274a8e018f1afdadf62
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_13
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 3
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba268090e941204581be57a094458f9
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_14
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 3
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0244b68b5ef9c54d8beb6becade7d4a
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_15
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 3
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfed79381cd071140a4df8769b891165
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_16
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597e2dd8c8b9def4097da7019bf9bb9d
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_17
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 3
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a7badd404d3234fbf7e2cef4ef1f15
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_18
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 3
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a0182151a68ab42b850376951ff76f
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_19
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08de4484836015b458212144b8075ec4
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_20
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 3
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7832c05266a36429adcbcbc3a8ecf9
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_21
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 3
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3999208f44df5b341aa40a0b7b56f0ab
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_22
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64295b9b700b4045b8a8a7ae656bbf9
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_23
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bb9b7ed5806d54b8c079a12a214637
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_24
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161c8c4f523feb048b0a9f1a8ae8f0f1
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_25
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06ac870f10845c4bb46c57229e7c4e2
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_26
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e96cea6c4f46f044a616d1aafe961d9
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_27
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 3
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3d35395a06ed841adbebeb840e9a43
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_28
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8f12edd0c0ebc4ea643e1e24e1fa55
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2efb31c86e509449bf8e1c6b81080ca
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_30
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 0
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e2fa228c1ec5a4487e6ad01279f12c
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_31
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 3
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438de84b323ed4440beeac9b76cd3000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_32
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 3
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23a223357794d64294ad25a343c55f6
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Consecutive Attack_33
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 3
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98214d38d67e4c149a011591c0303403
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a6a3c9579dc143a46aba403aa5bc70dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Consecutive Attack_0: 21300000
+      Consecutive Attack_1: 21300002
+      Consecutive Attack_10: 21300020
+      Consecutive Attack_11: 21300022
+      Consecutive Attack_12: 21300024
+      Consecutive Attack_13: 21300026
+      Consecutive Attack_14: 21300028
+      Consecutive Attack_15: 21300030
+      Consecutive Attack_16: 21300032
+      Consecutive Attack_17: 21300034
+      Consecutive Attack_18: 21300036
+      Consecutive Attack_19: 21300038
+      Consecutive Attack_2: 21300004
+      Consecutive Attack_20: 21300040
+      Consecutive Attack_21: 21300042
+      Consecutive Attack_22: 21300044
+      Consecutive Attack_23: 21300046
+      Consecutive Attack_24: 21300048
+      Consecutive Attack_25: 21300050
+      Consecutive Attack_26: 21300052
+      Consecutive Attack_27: 21300054
+      Consecutive Attack_28: 21300056
+      Consecutive Attack_29: 21300058
+      Consecutive Attack_3: 21300006
+      Consecutive Attack_30: 21300060
+      Consecutive Attack_31: 21300062
+      Consecutive Attack_32: 21300064
+      Consecutive Attack_33: 21300066
+      Consecutive Attack_4: 21300008
+      Consecutive Attack_5: 21300010
+      Consecutive Attack_6: 21300012
+      Consecutive Attack_7: 21300014
+      Consecutive Attack_8: 21300016
+      Consecutive Attack_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
