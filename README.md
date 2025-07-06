@@ -1,5 +1,6 @@
 # projectEclipse
 2D SideScroller Game Template
+A project started to get more hands on with 2D Game Developement.
 (2023 - I’m no longer working on this project.)
 
 Summary: 
